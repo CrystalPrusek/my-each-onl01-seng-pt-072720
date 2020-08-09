@@ -1,8 +1,8 @@
 
 
-my_each(list) {|i| return "I am #{i} happy person"}
 
-def hello(array)
+
+def my_each (array)
   i = 0
   collection = []
   while i < array.length
